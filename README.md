@@ -1,4 +1,8 @@
-# Phil's Custom freqtrade Crypto Trading Strategies
+We are evaluating multiple freqtrade strategies for crypto trading right now. This repository is currently under evaluation.
+A quick introduction to freqtrade can be found here: https://bitcoin-newsticker.de/freqtrade-kostenloser-kryptohandel-mit-bots/
+Here are some more basics about crypto bot trading: https://bitcoin-newsticker.de/kryptohandel-mit-automatisierten-bots/
+More to come soon!
+
 
 _**I am only periodically developing these strategies because - work, family etc...**_
 
